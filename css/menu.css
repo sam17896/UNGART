@@ -1,0 +1,32 @@
+/*  CSS Document                             */
+/*  Written by Chris Converse for Lynda.com  */
+
+/* Style */
+
+body { font: 12px Arial; margin: 0px; padding: 0px 20px; background-color: #736b02; }
+
+h1 { margin: 0 0 1em 0;  font-size: 1.7em; font-weight: normal; }
+h2 { margin: 0 0 .5em 0; font-size: 1.3em; }
+p { margin: 0 0 1em 0; }
+aside p { color: #777; }
+footer { font-size: .9em; }
+
+
+/* Layout */
+.page { max-width: 980px; margin: 0px auto; padding: 0px; }
+header { position: relative; height: 28px; margin: 0px; padding-top: 80px; background: url(../images/banner.jpg) no-repeat 50% 0px; }
+header a.logo { width: 120px; height: 70px; position: absolute; top: 15px; left: 15px; background: url(../images/logo.png) no-repeat 0px 0px; display: inline-block; }
+nav { background-color: rgba(0,0,0,.3); }
+article { margin: 0px; padding: 25px; background-color: #fff; }
+aside { width: 200px; float: right; margin: 0px 0px 10px 40px; padding: 0px 0px 0px 20px; border-left: 2px solid #ccc; }
+aside p { margin: 0px; }
+footer { border-top: 1px solid #ddd; margin: 0px; padding: 10px 25px 10px 10px; color: rgba(255,255,255,.4); }
+
+.clear { clear: both; line-height: 1px; }
+
+
+/* Dropdown Menus */
+
+.nav_menu { position: relative; z-index: 1000; margin: 0px; padding: 0px; }
+
+

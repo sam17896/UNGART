@@ -1,0 +1,4 @@
+For headings Use Exo
+For normal Text use Ubunto
+
+Both fonts are in fonts folder install them in ur lappy
